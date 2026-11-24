@@ -1,0 +1,5 @@
+注意：以下为示例数据，非真实密钥
+
+key_alpha = "aaaabbbbccccdddd"
+key_beta  = "eeeeffffgggghhhh"
+key_gamma = "iiiijjjjkkkkllll"
